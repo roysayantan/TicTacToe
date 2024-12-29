@@ -9,6 +9,16 @@ A simple Tic Tac Toe game in Python
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/roysayantan/TicTacToe.git
-
+git clone https://github.com/your-username/TicTacToe.git
+```
+2. Navigate to the project directory:
+ ```bash
+cd TicTacToe
+```
+4. Run the Python script:
+```bash
 python tictactoe.py
+```
+
+
+
